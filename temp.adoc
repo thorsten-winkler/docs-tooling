@@ -1,0 +1,6 @@
+// #############################################################################
+# Temp infos which need to be sorted
+// Include Meta Information
+include::./.tooling-meta.adoc[]
+// Include Variables
+include::./.tooling-vars.adoc[]

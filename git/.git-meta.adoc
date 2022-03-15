@@ -1,0 +1,21 @@
+// git.adoc - Meta information
+:author: Thorsten Winkler
+:email: todo
+:revdate: {docdate}
+:revnumber: 0.1
+//:revremark: Some remark here
+//:version-label: Version
+// Enable icons
+:icons: font
+// Disable footer
+:nofooter:
+// Enable and configure Table of Contents
+:toc:
+:toclevels: 4
+:toc-title: Table of Contents
+:sectnums: |,all|
+// Enable Source-Code Highlighting
+:source-highlighter: highlight.js
+:highlightjs-theme: base16/gruvbox-dark-pale
+:highlightjsdir: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0
+//:experimental:

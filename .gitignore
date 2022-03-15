@@ -1,0 +1,10 @@
+*.DS_Store
+*.html
+.adoc-meta.adoc
+.adoc-vars.adoc
+configs
+docs_n_books
+meta
+scripts
+vars
+!index.html

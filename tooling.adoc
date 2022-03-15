@@ -1,0 +1,24 @@
+//##############################################################################
+# Tooling
+// Include Meta Information
+include::./.tooling-meta.adoc[]
+// Include Variables
+include::./.tooling-vars.adoc[]
+
+//##############################################################################
+## Tooling
+
+include::./tooling-general.adoc[tag=tooling-general]
+
+//##############################################################################
+// ## Ansible
+include::./{dir-ansible}/ansible.adoc[leveloffset=+1]
+
+//##############################################################################
+// ## Git
+include::./{dir-git}/git.adoc[leveloffset=+1]
+
+//##############################################################################
+// ## Temp Stuff
+include::./temp.adoc[leveloffset=+1]
+

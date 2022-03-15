@@ -1,0 +1,11 @@
+
+//##############################################################################
+# Ansible
+// Include Meta Information
+include::./.ansible-meta.adoc[]
+// Include Variables
+include::./.ansible-vars.adoc[]
+
+//##############################################################################
+## What is a Ansible?
+...
